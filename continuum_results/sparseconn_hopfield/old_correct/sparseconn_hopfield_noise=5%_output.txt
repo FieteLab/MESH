@@ -1,0 +1,12 @@
+1
+converged at 1
+2
+converged at 3
+3
+converged at 13
+4
+5
+6
+7
+8
+9

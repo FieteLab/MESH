@@ -1,0 +1,1522 @@
+1
+converged at 0
+2
+converged at 0
+3
+converged at 0
+4
+converged at 0
+5
+converged at 0
+6
+converged at 0
+7
+converged at 0
+8
+converged at 0
+9
+converged at 0
+10
+converged at 0
+11
+converged at 0
+12
+converged at 0
+13
+converged at 0
+14
+converged at 0
+15
+converged at 0
+16
+converged at 0
+17
+converged at 0
+18
+converged at 0
+19
+converged at 0
+20
+converged at 0
+21
+converged at 0
+22
+converged at 0
+23
+converged at 0
+24
+converged at 0
+25
+converged at 0
+26
+converged at 0
+27
+converged at 0
+28
+converged at 0
+29
+converged at 0
+30
+converged at 0
+31
+converged at 0
+32
+converged at 0
+33
+converged at 0
+34
+converged at 0
+35
+converged at 0
+36
+converged at 0
+37
+converged at 0
+38
+converged at 0
+39
+converged at 0
+40
+converged at 0
+41
+converged at 0
+42
+converged at 0
+43
+converged at 0
+44
+converged at 0
+45
+converged at 0
+46
+converged at 0
+47
+converged at 0
+48
+converged at 0
+49
+converged at 0
+50
+converged at 0
+51
+converged at 0
+52
+converged at 0
+53
+converged at 0
+54
+converged at 0
+55
+converged at 0
+56
+converged at 0
+57
+converged at 0
+58
+converged at 0
+59
+converged at 0
+60
+converged at 0
+61
+converged at 0
+62
+converged at 0
+63
+converged at 0
+64
+converged at 0
+65
+converged at 0
+66
+converged at 0
+67
+converged at 0
+68
+converged at 0
+69
+converged at 0
+70
+converged at 0
+71
+converged at 0
+72
+converged at 0
+73
+converged at 0
+74
+converged at 0
+75
+converged at 0
+76
+converged at 0
+77
+converged at 0
+78
+converged at 0
+79
+converged at 0
+80
+converged at 0
+81
+converged at 0
+82
+converged at 0
+83
+converged at 0
+84
+converged at 0
+85
+converged at 0
+86
+converged at 0
+87
+converged at 0
+88
+converged at 0
+89
+converged at 0
+90
+converged at 0
+91
+converged at 0
+92
+converged at 0
+93
+converged at 0
+94
+converged at 0
+95
+converged at 0
+96
+converged at 0
+97
+converged at 0
+98
+converged at 0
+99
+converged at 0
+100
+converged at 0
+101
+converged at 0
+102
+converged at 0
+103
+converged at 0
+104
+converged at 0
+105
+converged at 0
+106
+converged at 0
+107
+converged at 0
+108
+converged at 0
+109
+converged at 0
+110
+converged at 0
+111
+converged at 0
+112
+converged at 0
+113
+converged at 0
+114
+converged at 0
+115
+converged at 0
+116
+converged at 0
+117
+converged at 0
+118
+converged at 0
+119
+converged at 0
+120
+converged at 0
+121
+converged at 0
+122
+converged at 0
+123
+converged at 0
+124
+converged at 0
+125
+converged at 0
+126
+converged at 0
+127
+converged at 0
+128
+converged at 0
+129
+converged at 0
+130
+converged at 0
+131
+converged at 0
+132
+converged at 0
+133
+converged at 0
+134
+converged at 0
+135
+converged at 0
+136
+converged at 0
+137
+converged at 0
+138
+converged at 0
+139
+converged at 0
+140
+converged at 0
+141
+converged at 0
+142
+converged at 0
+143
+converged at 0
+144
+converged at 0
+145
+converged at 0
+146
+converged at 0
+147
+converged at 0
+148
+converged at 0
+149
+converged at 0
+150
+converged at 0
+151
+converged at 0
+152
+converged at 0
+153
+converged at 0
+154
+converged at 0
+155
+converged at 0
+156
+converged at 0
+157
+converged at 0
+158
+converged at 0
+159
+converged at 0
+160
+converged at 0
+161
+converged at 0
+162
+converged at 0
+163
+converged at 0
+164
+converged at 0
+165
+converged at 0
+166
+converged at 0
+167
+converged at 0
+168
+converged at 0
+169
+converged at 0
+170
+converged at 0
+171
+converged at 0
+172
+converged at 0
+173
+converged at 0
+174
+converged at 0
+175
+converged at 0
+176
+converged at 0
+177
+converged at 0
+178
+converged at 0
+179
+converged at 0
+180
+converged at 0
+181
+converged at 0
+182
+converged at 0
+183
+converged at 0
+184
+converged at 0
+185
+converged at 0
+186
+converged at 0
+187
+converged at 0
+188
+converged at 0
+189
+converged at 0
+190
+converged at 0
+191
+converged at 0
+192
+converged at 0
+193
+converged at 0
+194
+converged at 0
+195
+converged at 0
+196
+converged at 0
+197
+converged at 0
+198
+converged at 0
+199
+converged at 0
+200
+converged at 0
+201
+converged at 0
+202
+converged at 0
+203
+converged at 0
+204
+converged at 0
+205
+converged at 0
+206
+converged at 0
+207
+converged at 0
+208
+converged at 0
+209
+converged at 0
+210
+converged at 0
+211
+converged at 0
+212
+converged at 0
+213
+converged at 0
+214
+converged at 0
+215
+converged at 0
+216
+converged at 0
+217
+converged at 0
+218
+converged at 0
+219
+converged at 0
+220
+converged at 0
+221
+converged at 0
+222
+converged at 0
+223
+converged at 0
+224
+converged at 0
+225
+converged at 0
+226
+converged at 0
+227
+converged at 0
+228
+converged at 0
+229
+converged at 0
+230
+converged at 0
+231
+converged at 0
+232
+converged at 0
+233
+converged at 0
+234
+converged at 0
+235
+converged at 0
+236
+converged at 0
+237
+converged at 0
+238
+converged at 0
+239
+converged at 0
+240
+converged at 0
+241
+converged at 0
+242
+converged at 0
+243
+converged at 0
+244
+converged at 0
+245
+converged at 0
+246
+converged at 0
+247
+converged at 0
+248
+converged at 0
+249
+converged at 0
+250
+converged at 0
+251
+converged at 0
+252
+converged at 0
+253
+converged at 0
+254
+converged at 0
+255
+converged at 0
+256
+converged at 0
+257
+converged at 0
+258
+converged at 0
+259
+converged at 0
+260
+converged at 0
+261
+converged at 0
+262
+converged at 0
+263
+converged at 0
+264
+converged at 0
+265
+converged at 0
+266
+converged at 0
+267
+converged at 0
+268
+converged at 0
+269
+converged at 0
+270
+converged at 0
+271
+converged at 0
+272
+converged at 0
+273
+converged at 0
+274
+converged at 0
+275
+converged at 0
+276
+converged at 0
+277
+converged at 0
+278
+converged at 0
+279
+converged at 0
+280
+converged at 0
+281
+converged at 0
+282
+converged at 0
+283
+converged at 0
+284
+converged at 0
+285
+converged at 0
+286
+converged at 0
+287
+converged at 0
+288
+converged at 0
+289
+converged at 0
+290
+converged at 0
+291
+converged at 0
+292
+converged at 0
+293
+converged at 0
+294
+converged at 0
+295
+converged at 0
+296
+converged at 0
+297
+converged at 0
+298
+converged at 0
+299
+converged at 0
+300
+converged at 0
+301
+converged at 0
+302
+converged at 0
+303
+converged at 0
+304
+converged at 0
+305
+converged at 0
+306
+converged at 0
+307
+converged at 0
+308
+converged at 0
+309
+converged at 0
+310
+converged at 0
+311
+converged at 0
+312
+converged at 0
+313
+converged at 0
+314
+converged at 0
+315
+converged at 0
+316
+converged at 0
+317
+converged at 0
+318
+converged at 0
+319
+converged at 0
+320
+converged at 0
+321
+converged at 0
+322
+converged at 0
+323
+converged at 0
+324
+converged at 0
+325
+converged at 0
+326
+converged at 0
+327
+converged at 0
+328
+converged at 0
+329
+converged at 0
+330
+converged at 0
+331
+converged at 0
+332
+converged at 0
+333
+converged at 0
+334
+converged at 0
+335
+converged at 0
+336
+converged at 0
+337
+converged at 0
+338
+converged at 0
+339
+converged at 0
+340
+converged at 0
+341
+converged at 0
+342
+converged at 0
+343
+converged at 0
+344
+converged at 0
+345
+converged at 0
+346
+converged at 0
+347
+converged at 0
+348
+converged at 0
+349
+converged at 0
+350
+converged at 0
+351
+converged at 0
+352
+converged at 0
+353
+converged at 0
+354
+converged at 0
+355
+converged at 0
+356
+converged at 0
+357
+converged at 0
+358
+converged at 0
+359
+converged at 0
+360
+converged at 0
+361
+converged at 0
+362
+converged at 0
+363
+converged at 0
+364
+converged at 0
+365
+converged at 0
+366
+converged at 0
+367
+converged at 0
+368
+converged at 0
+369
+converged at 0
+370
+converged at 0
+371
+converged at 0
+372
+converged at 0
+373
+converged at 0
+374
+converged at 0
+375
+converged at 0
+376
+converged at 0
+377
+converged at 0
+378
+converged at 0
+379
+converged at 0
+380
+converged at 0
+381
+converged at 0
+382
+converged at 0
+383
+converged at 0
+384
+converged at 0
+385
+converged at 0
+386
+converged at 0
+387
+converged at 0
+388
+converged at 0
+389
+converged at 0
+390
+converged at 0
+391
+converged at 0
+392
+converged at 0
+393
+converged at 0
+394
+converged at 0
+395
+converged at 0
+396
+converged at 0
+397
+converged at 0
+398
+converged at 0
+399
+converged at 0
+400
+converged at 0
+401
+converged at 0
+402
+converged at 0
+403
+converged at 0
+404
+converged at 0
+405
+converged at 0
+406
+converged at 0
+407
+converged at 0
+408
+converged at 0
+409
+converged at 0
+410
+converged at 0
+411
+converged at 0
+412
+converged at 0
+413
+converged at 0
+414
+converged at 0
+415
+converged at 0
+416
+converged at 0
+417
+converged at 0
+418
+converged at 0
+419
+converged at 0
+420
+converged at 0
+421
+converged at 0
+422
+converged at 0
+423
+converged at 0
+424
+converged at 0
+425
+converged at 0
+426
+converged at 0
+427
+converged at 0
+428
+converged at 0
+429
+converged at 0
+430
+converged at 0
+431
+converged at 0
+432
+converged at 0
+433
+converged at 0
+434
+converged at 0
+435
+converged at 0
+436
+converged at 0
+437
+converged at 0
+438
+converged at 0
+439
+converged at 0
+440
+converged at 0
+441
+converged at 0
+442
+converged at 0
+443
+converged at 0
+444
+converged at 0
+445
+converged at 0
+446
+converged at 0
+447
+converged at 0
+448
+converged at 0
+449
+converged at 0
+450
+converged at 0
+451
+converged at 0
+452
+converged at 0
+453
+converged at 0
+454
+converged at 0
+455
+converged at 0
+456
+converged at 0
+457
+converged at 0
+458
+converged at 0
+459
+converged at 0
+460
+converged at 0
+461
+converged at 0
+462
+converged at 0
+463
+converged at 0
+464
+converged at 0
+465
+converged at 0
+466
+converged at 0
+467
+converged at 0
+468
+converged at 0
+469
+converged at 0
+470
+converged at 0
+471
+converged at 0
+472
+converged at 0
+473
+converged at 0
+474
+converged at 0
+475
+converged at 0
+476
+converged at 0
+477
+converged at 0
+478
+converged at 0
+479
+converged at 0
+480
+converged at 0
+481
+converged at 0
+482
+converged at 0
+483
+converged at 0
+484
+converged at 0
+485
+converged at 0
+486
+converged at 0
+487
+converged at 0
+488
+converged at 0
+489
+converged at 0
+490
+converged at 0
+491
+converged at 0
+492
+converged at 0
+493
+converged at 0
+494
+converged at 0
+495
+converged at 0
+496
+converged at 0
+497
+converged at 0
+498
+converged at 0
+499
+converged at 0
+500
+converged at 0
+501
+converged at 0
+502
+converged at 0
+503
+converged at 0
+504
+converged at 0
+505
+converged at 0
+506
+converged at 0
+507
+converged at 0
+508
+converged at 0
+509
+converged at 0
+510
+converged at 0
+511
+converged at 0
+512
+converged at 0
+513
+converged at 0
+514
+converged at 0
+515
+converged at 0
+516
+converged at 0
+517
+converged at 0
+518
+converged at 0
+519
+converged at 0
+520
+converged at 0
+521
+converged at 0
+522
+converged at 0
+523
+converged at 0
+524
+converged at 0
+525
+converged at 0
+526
+converged at 0
+527
+converged at 0
+528
+converged at 0
+529
+converged at 0
+530
+converged at 0
+531
+converged at 0
+532
+converged at 0
+533
+converged at 0
+534
+converged at 0
+535
+converged at 0
+536
+converged at 0
+537
+converged at 0
+538
+converged at 0
+539
+converged at 0
+540
+converged at 0
+541
+converged at 0
+542
+converged at 0
+543
+converged at 0
+544
+converged at 0
+545
+converged at 0
+546
+converged at 0
+547
+converged at 0
+548
+converged at 0
+549
+converged at 0
+550
+converged at 0
+551
+converged at 0
+552
+converged at 0
+553
+converged at 0
+554
+converged at 0
+555
+converged at 0
+556
+converged at 0
+557
+converged at 0
+558
+converged at 0
+559
+converged at 0
+560
+converged at 0
+561
+converged at 0
+562
+converged at 0
+563
+converged at 0
+564
+converged at 0
+565
+converged at 0
+566
+converged at 0
+567
+converged at 0
+568
+converged at 0
+569
+converged at 0
+570
+converged at 0
+571
+converged at 0
+572
+converged at 0
+573
+converged at 0
+574
+converged at 0
+575
+converged at 0
+576
+converged at 0
+577
+converged at 0
+578
+converged at 0
+579
+converged at 0
+580
+converged at 0
+581
+converged at 0
+582
+converged at 0
+583
+converged at 0
+584
+converged at 0
+585
+converged at 0
+586
+converged at 0
+587
+converged at 0
+588
+converged at 0
+589
+converged at 0
+590
+converged at 0
+591
+converged at 0
+592
+converged at 0
+593
+converged at 0
+594
+converged at 0
+595
+converged at 0
+596
+converged at 0
+597
+converged at 0
+598
+converged at 0
+599
+converged at 0
+600
+converged at 0
+601
+converged at 0
+602
+converged at 0
+603
+converged at 0
+604
+converged at 0
+605
+converged at 0
+606
+converged at 0
+607
+converged at 0
+608
+converged at 0
+609
+converged at 0
+610
+converged at 0
+611
+converged at 0
+612
+converged at 0
+613
+converged at 0
+614
+converged at 0
+615
+converged at 0
+616
+converged at 0
+617
+converged at 0
+618
+converged at 0
+619
+converged at 0
+620
+converged at 0
+621
+converged at 0
+622
+converged at 0
+623
+converged at 0
+624
+converged at 0
+625
+converged at 0
+626
+converged at 0
+627
+converged at 0
+628
+converged at 0
+629
+converged at 0
+630
+converged at 0
+631
+converged at 0
+632
+converged at 0
+633
+converged at 0
+634
+converged at 0
+635
+converged at 0
+636
+converged at 0
+637
+converged at 0
+638
+converged at 0
+639
+converged at 0
+640
+converged at 0
+641
+converged at 0
+642
+converged at 0
+643
+converged at 0
+644
+converged at 0
+645
+converged at 0
+646
+converged at 0
+647
+converged at 0
+648
+converged at 0
+649
+converged at 0
+650
+converged at 0
+651
+converged at 0
+652
+converged at 0
+653
+converged at 0
+654
+converged at 0
+655
+converged at 0
+656
+converged at 0
+657
+converged at 0
+658
+converged at 0
+659
+converged at 0
+660
+converged at 0
+661
+converged at 0
+662
+converged at 0
+663
+converged at 0
+664
+converged at 0
+665
+converged at 0
+666
+converged at 0
+667
+converged at 0
+668
+converged at 0
+669
+converged at 0
+670
+converged at 0
+671
+converged at 0
+672
+converged at 0
+673
+converged at 0
+674
+converged at 0
+675
+converged at 0
+676
+converged at 0
+677
+converged at 0
+678
+converged at 0
+679
+converged at 0
+680
+converged at 0
+681
+converged at 0
+682
+converged at 0
+683
+converged at 0
+684
+converged at 0
+685
+converged at 0
+686
+converged at 0
+687
+converged at 0
+688
+converged at 0
+689
+converged at 0
+690
+converged at 0
+691
+converged at 0
+692
+converged at 0
+693
+converged at 0
+694
+converged at 0
+695
+converged at 0
+696
+converged at 0
+697
+converged at 0
+698
+converged at 0
+699
+converged at 0
+700
+converged at 0
+701
+converged at 0
+702
+converged at 0
+703
+converged at 0
+704
+converged at 0
+705
+converged at 0
+706
+converged at 0
+707
+converged at 0
+708
+709
+710
+711
+712
+713
+714
+715
+716
+717
+718
+719
+720
+721
+722
+723
+724
+725
+726
+727
+728
+729
+730
+731
+732
+733
+734
+735
+736
+737
+738
+739
+740
+741
+742
+743
+744
+745
+746
+747
+748
+749
+750
+751
+752
+753
+754
+755
+756
+757
+758
+759
+760
+761
+762
+763
+764
+765
+766
+767
+768
+769
+770
+771
+772
+773
+774
+775
+776
+777
+778
+779
+780
+781
+782
+783
+784
+785
+786
+787
+788
+789
+790
+791
+792
+793
+794
+795
+796
+797
+798
+799
+800
+801
+802
+803
+804
+805
+806
+807
+808
+809
+810
+811
+812
+813
+814
+815
