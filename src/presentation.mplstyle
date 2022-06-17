@@ -1,0 +1,57 @@
+
+axes.unicode_minus  : False
+figure.autolayout   : True
+savefig.dpi         : 400
+savefig.bbox        : tight
+
+
+axes.titlesize      : 22
+axes.labelsize      : 22
+legend.fontsize     : 20
+lines.linewidth     : 1
+lines.linestyle     : -
+xtick.labelsize     : 17
+ytick.labelsize     : 17
+xtick.major.width   : 1
+xtick.minor.width   : 1
+ytick.minor.width   : 1
+ytick.major.width   : 1
+xtick.minor.size    : 3
+xtick.major.size    : 5
+ytick.minor.size    : 3
+ytick.major.size    : 5
+
+
+lines.markersize            : 6
+#lines.markeredgecolor      : black
+lines.markeredgewidth       : 2
+
+
+font.size           : 22
+font.family         : sans-serif
+font.style          : normal
+font.variant        : normal
+font.weight         : normal
+font.stretch        : normal
+font.sans-serif     : Helvetica
+
+
+### GRIDS
+grid.color          :   k       # grid color
+grid.linestyle      :   :       # dotted
+grid.linewidth      :   0.5     # in points
+grid.alpha          :   1.0     # transparency, between 0.0 and 1.0
+
+
+mathtext.cal        : cursive
+mathtext.rm         : serif
+mathtext.tt         : monospace
+mathtext.it         : serif:italic
+mathtext.bf         : serif:bold
+mathtext.sf         : sans\-serif
+mathtext.fontset    : cm # Should be 'cm' (Computer Modern), 'stix',# 'stixsans' or 'custom'
+mathtext.fallback   : cm
+mathtext.default    : it        # can be any of the LaTeX font names 
+
+
+
