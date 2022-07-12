@@ -33,3 +33,23 @@ As mentioned in the discussion section of the paper, the feature, label and hidd
 |pbook        |Hidden states |
 |sbook        |Feature states |
 
+## Citation
+If you find this work useful, we would appreciate if you could cite our paper:
+
+```
+@InProceedings{pmlr-v162-sharma22b,
+  title = 	 {Content Addressable Memory Without Catastrophic Forgetting by Heteroassociation with a Fixed Scaffold},
+  author =       {Sharma, Sugandha and Chandra, Sarthak and Fiete, Ila},
+  booktitle = 	 {Proceedings of the 39th International Conference on Machine Learning},
+  pages = 	 {19658--19682},
+  year = 	 {2022},
+  editor = 	 {Chaudhuri, Kamalika and Jegelka, Stefanie and Song, Le and Szepesvari, Csaba and Niu, Gang and Sabato, Sivan},
+  volume = 	 {162},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {17--23 Jul},
+  publisher =    {PMLR},
+  pdf = 	 {https://proceedings.mlr.press/v162/sharma22b/sharma22b.pdf},
+  url = 	 {https://proceedings.mlr.press/v162/sharma22b.html},
+  abstract = 	 {Content-addressable memory (CAM) networks, so-called because stored items can be recalled by partial or corrupted versions of the items, exhibit near-perfect recall of a small number of information-dense patterns below capacity and a ’memory cliff’ beyond, such that inserting a single additional pattern results in catastrophic loss of all stored patterns. We propose a novel CAM architecture, Memory Scaffold with Heteroassociation (MESH), that factorizes the problems of internal attractor dynamics and association with external content to generate a CAM continuum without a memory cliff: Small numbers of patterns are stored with complete information recovery matching standard CAMs, while inserting more patterns still results in partial recall of every pattern, with a graceful trade-off between pattern number and pattern richness. Motivated by the architecture of the Entorhinal-Hippocampal memory circuit in the brain, MESH is a tripartite architecture with pairwise interactions that uses a predetermined set of internally stabilized states together with heteroassociation between the internal states and arbitrary external patterns. We show analytically and experimentally that for any number of stored patterns, MESH nearly saturates the total information bound (given by the number of synapses) for CAM networks, outperforming all existing CAM models.}
+} 
+```
